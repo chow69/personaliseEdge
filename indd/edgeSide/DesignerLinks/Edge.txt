@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<template description="1" fields="index" mirror="false" stretchOption="false" ver="1">
+    <set count="80" image="side.pdf" imageRotation="0"/>
+</template>
