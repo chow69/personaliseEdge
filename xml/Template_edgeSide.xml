@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScriptParams version="SmartStream Designer v5.5">
+	<Parameter ParamName="TemplateFile" ParamValue="{INDD}"/>
+	<Parameter ParamName="DBFile" ParamValue="{DBFile}"/>
+	<Parameter ParamName="DBFieldDelimeter" ParamValue="44"/>
+	<Parameter ParamName="JobOutputDir" ParamValue="{OUTPUT}"/>
+	<Parameter ParamName="JobOutputName" ParamValue="{PDF}"/>
+	<Parameter ParamName="JobStatusFile" ParamValue="{LOG}/edgeSide.xml"/>
+	<Parameter ParamName="JobOutputFormat" ParamValue="PDF"/>
+	<Parameter ParamName="EmbedImagesInJLYT" ParamValue="false"/>
+	<Parameter ParamName="DBSkipRecords" ParamValue="1"/>
+	<Parameter ParamName="PDFNonImposed" ParamValue="true"/>
+	<Parameter ParamName="PrintRangeAction" ParamValue="All"/>
+	<Parameter ParamName="PrintSplitEvery" ParamValue="0"/>
+	<Parameter ParamName="PrintRangeType" ParamValue="Records"/>
+</ScriptParams>
